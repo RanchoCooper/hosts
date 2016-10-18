@@ -19,6 +19,8 @@
 fe80::1%lo0 localhost
 
 # Modified hosts start
+151.101.12.249  github.global.ssl.fastly.net
+
 
 # Amazon AWS Start
 54.239.31.69    aws.amazon.com
